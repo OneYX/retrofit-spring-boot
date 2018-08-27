@@ -1,0 +1,5 @@
+.idea/
+*.class
+retrofit-spring-boot-samples/target/
+retrofit-spring-boot-autoconfigure/target/classes/META-INF/spring.factories
+retrofit-spring-boot-autoconfigure/target/classes/META-INF/spring-configuration-metadata.json

@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.github.oneyx.retrofit.spring.boot.autoconfigure.RetrofitAutoConfiguration,\
+com.github.oneyx.retrofit.spring.boot.autoconfigure.instrument.hystrix.HystrixAutoConfiguration

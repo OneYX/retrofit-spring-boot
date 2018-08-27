@@ -1,0 +1,14 @@
+github:
+  api:
+    url: https://api.github.com/
+
+retrofit:
+  hystrix:
+    enabled: true
+  client:
+    connect-timeout: 20000
+    read-timeout: 20000
+
+server:
+  port: 8081
+debug: true
